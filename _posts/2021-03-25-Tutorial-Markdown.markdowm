@@ -5,12 +5,12 @@ date:   2021-03-25 04:05:58 +0200
 categories: jekyll update
 ---
 
-# Este es mi primer post sobre markdown. 
-   
-### En este post os explicare las formas de escribir en markdown. 
-   
-## Ahora mediante una lista os dire las etiquetas que trataremos. 
-   
+# Este es mi primer post sobre markdown.
+
+### En este post os explicare las formas de escribir en markdown.
+
+## Ahora mediante una lista os dire las etiquetas que trataremos.
+
 1.- Elementos de bloque :   
     - Párrafos y saltos de línea.   
     - Encabezados.   
@@ -229,17 +229,17 @@ En según que tipo de publicaciones (sobre todo las de carácter técnico), nece
 
 Para ello tienes disponible dos alternativas.
 
-Código puro <code>
+Código puro 
 
-La forma más sencilla de escribir código en Markdown es envolver el texto entre dos comillas sencillas `. Esto se corresponde con la etiqueta HTML <code>
+La forma más sencilla de escribir código en Markdown es envolver el texto entre dos comillas sencillas `.
 
 `Esto es una línea de código`
 
 Como ves, es muy útil para introducir código dentro de la misma línea o párrafo, algo que no permite el método siguiente.
 
-Texto preformateado <pre>
+Texto preformateado
 
-La otra manera de añadir código en Markdown es comenzar el párrafo con cuatro espacios en blanco. Esto se corresponde con la etiqueta HTML <pre>
+La otra manera de añadir código en Markdown es comenzar el párrafo con cuatro espacios en blanco.
 Ojo, ¡estos espacios deberás incluirlos en cada línea que escribas! Para añadir código en bloque es mejor utilizar la sintaxis que viste anteriormente: códigos de bloque.
 
 ___
@@ -257,13 +257,13 @@ También podrás añadir un título alternativo entrecomillándolo al final de l
 ![Texto alternativo](/ruta/a/la/imagen.jpg "Título alternativo")
 Ya que al añadir imágenes también estás tratando con URLs, puedes utilizar el método que viste anteriormente para incluir links mediante referencias, solo que en este caso los enlaces de referencia serán aquellos donde se encuentre tu imagen.
 
-De esta forma podrías insertar una imagen
-![nombre de la imagen][img1]
-O dos, sin ensuciar tu espacio de escritura.
-![nombre de la imagen2][img2]
-[img1]: /ruta/a/la/imagen.jpg "Título alternativo"
-[img2]: /ruta/a/la/imagen2.jpg "Título alternativo"
-___
+De esta forma podrías insertar una imagen  
+![nombre de la imagen][img1]  
+O dos, sin ensuciar tu espacio de escritura.  
+![nombre de la imagen2][img2]  
+[img1]: /ruta/a/la/imagen.jpg "Título alternativo"  
+[img2]: /ruta/a/la/imagen2.jpg "Título alternativo"  
+
 # 3.- Elementos varios:
 
 ## Links automaticos:
@@ -288,17 +288,16 @@ Se trata de la barra invertida \.
 
 Escribiéndola justo delante de cualquiera de los elementos que verás a continuación, los mismos no tendrán efecto a la hora de convertirse en negritas, cursivas, links…
 
-\  barra invertida
-`  acento invertido
-*  asterisco
-_  guión bajo
-{} llaves
-[] corchetes
-() paréntesis
-#  almohadilla
-+  símbolo de suma
--  guión
-.  punto
-!  exclamación
-
+\\  barra invertida  
+\`  acento invertido  
+\*  asterisco  
+\_  guión bajo  
+\{} llaves 
+\[] corchetes  
+\() paréntesis  
+\#  almohadilla  
+\+  símbolo de suma  
+\-  guión  
+\.  punto  
+\!  exclamación  
 ___
