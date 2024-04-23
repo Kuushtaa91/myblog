@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "Markdown"
+date:   2021-03-25 04:05:58 +0200
+categories: jekyll update
+---
+
+# Este es mi primer post sobre markdown #
+
+### En este post os explicare las formas de escribir en markdown. ###
+
+## Ahora mediante una lista ordenada os dire las etiquetas que trataremos ##
+1.- Titulo Principal.
+2.- Subtitulo.
+3.- Negrita.
+4.- Cursiva.
+5.- Negrita y cursiva.
+6.- Codigo.
+7.- Citas.
+8.- Lista Ordenada.
+9.- Lista Desordenada.
+10.- Enlace externo.
+11.- Enlace interno.
+12.- Imagen.
+13.- Tabla.
+
+___
+
+
