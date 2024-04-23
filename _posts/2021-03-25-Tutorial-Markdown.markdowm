@@ -5,25 +5,44 @@ date:   2021-03-25 04:05:58 +0200
 categories: jekyll update
 ---
 
-# Este es mi primer post sobre markdown #
-
-### En este post os explicare las formas de escribir en markdown. ###
-
-## Ahora mediante una lista ordenada os dire las etiquetas que trataremos ##
-1.- Titulo Principal.
-2.- Subtitulo.
-3.- Negrita.
-4.- Cursiva.
-5.- Negrita y cursiva.
-6.- Codigo.
-7.- Citas.
-8.- Lista Ordenada.
-9.- Lista Desordenada.
-10.- Enlace externo.
-11.- Enlace interno.
-12.- Imagen.
-13.- Tabla.
-
+# Este es mi primer post sobre markdown. 
+   
+### En este post os explicare las formas de escribir en markdown. 
+   
+## Ahora mediante una lista os dire las etiquetas que trataremos. 
+   
+1.- Elementos de bloque :   
+    - Párrafos y saltos de línea.   
+    - Encabezados.   
+    - Citas.   
+    - Listas.   
+    - Códigos de bloque.   
+    - Reglas horizontales.   
+2.- Elementos de línea :   
+    - Énfasis.   
+    - Links o enlaces.   
+    - Código.   
+    - Imágenes.   
+3.- Elementos varios :   
+    - Links automáticos.   
+    - Omitir Markdown.   
 ___
 
 
+# 1.- Elementos de bloque:   
+   
+## Parrafos y saltos de linea:   
+
+Para generar un nuevo párrafo en Markdown simplemente separa el texto mediante una línea en blanco (pulsando dos veces intro)
+
+Al igual que sucede con HTML, Markdown no soporta dobles líneas en blanco, así que si intentas generarlas estas se convertirán en una sola al procesarse.
+
+Para realizar un salto de línea y empezar una frase en una línea siguiente dentro del mismo párrafo, tendrás que pulsar dos veces la barra espaciadora antes de pulsar una vez intro.
+
+Por ejemplo si quisieses escribir un poema Haiku quedaría tal que así:
+
+«Andando con sus patitas mojadas,  
+el gorrión  
+por la terraza de madera»
+
+Donde cada verso tiene dos espacios en blanco al final.
